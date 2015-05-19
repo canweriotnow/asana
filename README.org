@@ -10,6 +10,16 @@
   - Version :: 0.1.0-SNAPSHOT
   - URL :: https://github.com/canweriotnow/asana
 
+* Credits
+
+This library wouldn't exist in its current form without the influence
+of [[https://github.com/Raynes/tentacles/][Tentacles]], a client for the Github API by [[https://github.com/Raynes][Anthony Grimes]]. It borrows
+shamelessly from =tentacles.core=, at least for the moment.
+
+* TODO
+  - [ ] Implement Tasks API
+  - [ ] Moar stuff.
+
 * Copyright
 © 2015 Jason Lewis. All rights reserved.
 The use and distribution terms for this software are covered by the
