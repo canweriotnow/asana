@@ -1,0 +1,35 @@
+#+TITLE: Asana README
+#+AUTHOR: Jason Lewis
+
+* asana
+
+* Library Information
+  - Description :: An [[https://asana.com][Asana]] API client for Clojure.
+  - Author :: Jason Lewis
+  - Maintainer :: Jason Lewis
+  - Created :: 20150519T05:19:12Z
+  - Version :: 0.1.0-SNAPSHOT
+  - URL :: https://github.com/canweriotnow/asana
+
+* Copyright
+© 2015 Jason Lewis. All rights reserved.
+The use and distribution terms for this software are covered by the
+Eclipse Public License 1.0 (http://opensource.org/licenses/eclipse-1.0.php)
+which can be found in the file epl-v10.html at the root of this distribution.
+By using this software in any fashion, you are agreeing to be bound by
+the terms of this license.
+You must not remove this notice, or any other, from this software.
+
+---
+
+This program uses Clojure core.async which is distributed with the following notice:
+
+Copyright © 2013 Rich Hickey and contributors
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
+----
+
+This program uses Prismatic Schema which is distributed with the following notice:
+
+Copyright © 2013 Prismatic and Contributors. Distributed under the Eclipse Public License, the same as Clojure.
