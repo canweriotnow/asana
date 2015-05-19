@@ -1,7 +1,6 @@
-#+TITLE: Asana README
+#+TITLE: Asana
 #+AUTHOR: Jason Lewis
 
-* asana
 
 * Library Information
   - Description :: An [[https://asana.com][Asana]] API client for Clojure.
