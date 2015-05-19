@@ -16,7 +16,7 @@ This library wouldn't exist in its current form without the influence
 of [[https://github.com/Raynes/tentacles/][Tentacles]], a client for the Github API by [[https://github.com/Raynes][Anthony Grimes]]. It borrows
 shamelessly from =tentacles.core=, at least for the moment.
 
-* TODO
+* Next Steps
   - [ ] Implement Tasks API
   - [ ] Moar stuff.
 
